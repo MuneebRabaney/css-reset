@@ -1,6 +1,8 @@
 {
-  // Add this to your VS code snipptes to have a easy way to create a Style Reset
-  // to use it, open any file with the .css extension and type 'sr', you should see this
+  // To add this file as a snippet in your VSCode Editor, download and save this file 
+  // as css-reset.code-snippets inside the same directory that VSCode uses for snippets 
+  // Creates a snippte to have a easy way to create a Style Reset for your CSS.
+  // To use, open any file with the .css extension and type 'sr', you should see this
   // option in your intellisesnse dropdown
   "Add CSS style reset": {
     "scope": "css",
