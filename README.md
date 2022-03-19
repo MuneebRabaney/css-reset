@@ -1,6 +1,6 @@
 # CSS Reset helpers
 
-## Options avaliable
+### Options avaliable
 
 Note: below is not an order but rather a choice list.
 
